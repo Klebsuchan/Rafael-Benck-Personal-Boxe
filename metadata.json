@@ -1,0 +1,6 @@
+{
+  "name": "Rafael Benck — Professor de Boxe & Atleta",
+  "description": "Site oficial do professor de boxe e atleta Rafael Benck. Modalidades, conquistas, planos de treino e agendamento de aulas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
